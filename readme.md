@@ -163,6 +163,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `emacs`       |        <img src="./icons/Emacs.svg" width="48">         |
 |       `ember`       |        <img src="./icons/Ember.svg" width="48">         |
 |      `emotion`      |     <img src="./icons/Emotion-Dark.svg" width="48">     |
+|       `excel`       |     <img src="./icons/Excel-Dark.svg" width="48">       |
 |      `express`      |    <img src="./icons/ExpressJS-Dark.svg" width="48">    |
 |      `fastapi`      |       <img src="./icons/FastAPI.svg" width="48">        |
 |     `fediverse`     |    <img src="./icons/Fediverse-Dark.svg" width="48">    |
@@ -261,10 +262,13 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `obsidian`     |    <img src="./icons/Obsidian-Dark.svg" width="48">     |
 |       `ocaml`       |        <img src="./icons/OCaml.svg" width="48">         |
 |       `octave`      |     <img src="./icons/Octave-Dark.svg" width="48">      |
+|      `onedrive`     |     <img src="./icons/OneDrive-Dark.svg" width="48">    |
+|       `onenote`     |     <img src="./icons/OneNote-Dark.svg" width="48">     |
 |       `opencv`      |     <img src="./icons/OpenCV-Dark.svg" width="48">      |
 |     `openshift`     |      <img src="./icons/OpenShift.svg" width="48">       |
 |     `openstack`     |    <img src="./icons/OpenStack-Dark.svg" width="48">    |
 |       `opera`       |       <img src="./icons/Opera-Dark.svg" width="48">     |
+|       `outlook`     |       <img src="./icons/Outlook-Dark.svg" width="48">     |
 |        `p5js`       |         <img src="./icons/p5js.svg" width="48">         |
 |       `pandas`      |      <img src="./icons/Pandas-Dark.svg" width="48">     |
 |        `pbi`        |        <img src="./icons/PBI-Dark.svg" width="48">      |
@@ -283,6 +287,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |         `pf`        |       <img src="./icons/Portfolio.svg" width="48">      |
 |      `postgres`     |   <img src="./icons/PostgreSQL-Dark.svg" width="48">    |
 |      `postman`      |       <img src="./icons/Postman.svg" width="48">        |
+|     `powerpoint`    |   <img src="./icons/PowerPoint-Dark.svg" width="48">    |
 |     `powershell`    |   <img src="./icons/Powershell-Dark.svg" width="48">    |
 |       `preact`      |       <img src="./icons/Preact-Dark.svg" width="48">    |
 |         `pl`        |       <img src="./icons/Prelude.svg" width="48">        |
@@ -334,6 +339,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `selenium`     |       <img src="./icons/Selenium.svg" width="48">       |
 |       `sentry`      |        <img src="./icons/Sentry.svg" width="48">        |
 |     `sequelize`     |    <img src="./icons/Sequelize-Dark.svg" width="48">    |
+|    `sharepoint`     |    <img src="./icons/SharePoint-Dark.svg" width="48">   |
 |      `shopify`      |       <img src="./icons/Shopify-Dark.svg" width="48">   |
 |      `sketchup`     |    <img src="./icons/Sketchup-Dark.svg" width="48">     |
 |      `solidity`     |       <img src="./icons/Solidity.svg" width="48">       |
@@ -346,6 +352,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `tableau`      |      <img src="./icons/Tableau-Dark.svg" width="48">    |
 |      `tailwind`     |   <img src="./icons/TailwindCSS-Dark.svg" width="48">   |
 |       `tauri`       |      <img src="./icons/Tauri-Dark.svg" width="48">      |
+|       `teams`       |      <img src="./icons/Teams-Dark.svg" width="48">      |
 |     `tensorflow`    |   <img src="./icons/TensorFlow-Dark.svg" width="48">    |
 |     `terraform`     |    <img src="./icons/Terraform-Dark.svg" width="48">    |
 |      `threejs`      |     <img src="./icons/ThreeJS-Dark.svg" width="48">     |
@@ -373,10 +380,12 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `webstorm`     |    <img src="./icons/WebStorm-Dark.svg" width="48">     |
 |      `windicss`     |    <img src="./icons/WindiCSS-Dark.svg" width="48">     |
 |      `windows`      |     <img src="./icons/Windows-Dark.svg" width="48">     |
+|        `word`       |       <img src="./icons/Word-Dark.svg" width="48">      |
 |     `wordpress`     |      <img src="./icons/Wordpress.svg" width="48">       |
 |      `workers`      |     <img src="./icons/Workers-Dark.svg" width="48">     | 
 |       `xcode`       |       <img src="./icons/Xcode-Dark.svg" width="48">     |
 |         `xd`        |          <img src="./icons/XD.svg" width="48">          | 
+|       `yammer`      |     <img src="./icons/Yammer-Dark.svg" width="48">      | 
 |        `yarn`       |      <img src="./icons/Yarn-Dark.svg" width="48">       |
 |        `yew`        |       <img src="./icons/Yew-Dark.svg" width="48">       |
 |        `zed`        |       <img src="./icons/Zed-Dark.svg" width="48">       |
